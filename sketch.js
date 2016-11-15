@@ -1,3 +1,5 @@
+//i love this shit
+
 var img;
 var a; 
    var offset = 10; 
